@@ -1,0 +1,1 @@
+I have build a model detects the type of diagnosis, whether the cancer is benign or malignan. Used data from kaggle to build the model. build Logistic Regression model, XBoost model, and Random forest model. After randomized searching which model is the best, Logistic regression was best with 97% accuracy.
